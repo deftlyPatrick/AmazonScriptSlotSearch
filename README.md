@@ -17,9 +17,9 @@ I basically worked mostly scraping off Whole Foods time slots as it was very dif
 ## Bugs that are still yet underdetermined: 
 - Not consistent on picking up time slots page: it ends up terminating the Chrome client. (The script is still usable.)
 
-##On how to run the code (either use Terminal / Windows Terminal):
+## On how to run the code (either use Terminal / Windows Terminal):
 
-###Twilio 
+### Twilio 
 - Make a twilio account :
 ```https://www.twilio.com/try-twilio```
 - Enter your phone number while verifying your twilio account and go to dashboard
@@ -27,7 +27,7 @@ I basically worked mostly scraping off Whole Foods time slots as it was very dif
 - If you want to add additonal phone numbers, you need to go to verified numbers (it is in blue on the main twilio dashboard)
 
 
-###Back to Terminal/Windows Terminal
+### Back to Terminal/Windows Terminal
 
 - Go to your desired directory and enter below 
 
