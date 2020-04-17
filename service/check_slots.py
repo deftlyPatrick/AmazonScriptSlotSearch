@@ -56,10 +56,8 @@ def create_driver():
 
     return driver
 
-
 def terminate(driver):
     driver.quit()
-
 
 def check_slots():
 
